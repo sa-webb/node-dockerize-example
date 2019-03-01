@@ -1,5 +1,9 @@
 # node-dockerize-example
 
-[Instructions to pull and run the image](dockerhub_pull.png)
+## Instructions
+
+[Instructions](dockerhub_pull.png)
+
+## Image
 
 [Docker Image](https://hub.docker.com/r/sawebb/node-image-example)
