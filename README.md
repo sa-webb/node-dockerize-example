@@ -1,4 +1,4 @@
-# node-dockerize-example
+# node app docker example
 
 ## Instructions
 
